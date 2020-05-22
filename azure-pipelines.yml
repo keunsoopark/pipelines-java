@@ -6,6 +6,10 @@
 trigger:
 - master
 
+pr:
+  - master
+  - releases/*
+
 strategy:
   matrix:
     jdk10_linux:
