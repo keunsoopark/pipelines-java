@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/whwr0428/whwr0428/_apis/build/status/keunsoopark.pipelines-java?branchName=master)](https://dev.azure.com/whwr0428/whwr0428/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
